@@ -1,6 +1,4 @@
-CREATE DATABASE my_db;
 USE DATABASE my_db;
-CREATE SCHEMA my_schema;
 USE SCHEMA my_schema;
 
 CREATE OR REPLACE TABLE employees(id NUMBER, name VARCHAR, role VARCHAR);
